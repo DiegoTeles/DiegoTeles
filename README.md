@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hello Unicorns 👋!</h1>
+<h3 align="center">I'm a Fullstack Developer, currently focusing on Frontend</h3>
 
-<!--
-**DiegoTeles/DiegoTeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with Senior Frontend Developer on Americanas SA., one of the biggest marketpace in South America.<br> 
+- 🤔 My specialty in frontend is using React/Next, Redux/Context API, Material UI/SASS, Rest/GraphQL and others...<br>
+- 📫 How to reach me<br>
+  * [**Discord**](https://discord.gg/uwveCXx)<br>
+  * [**Twitter**](https://discord.gg/uwveCXx)<br>
+  * [**Youtube**](https://youtube.com/UnicornCoder)<br>
+  * [**Artigos**](https://unicorncoder.club)<br>
+  * [**Instagram**](https://Instagram.com/UnicornCoder)<br>
 
-Here are some ideas to get you started:
+<p align="center">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=DiegoTeles&show_icons=true&theme=algolia" height="165px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoTeles&show_icons=true&theme=algolia" height="165px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](https://metrics.lecoq.io/DiegoTeles?template=classic&gists=1&stars=1&tweets=1&stars.limit=4&tweets.attachments=false&tweets.limit=4&tweets.user=UnicornCoder&config.timezone=America%2FSao_Paulo)
+
