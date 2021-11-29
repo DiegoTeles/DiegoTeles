@@ -5,7 +5,7 @@
 - 🤔 My specialty in frontend is using React/Next, Redux/Context API, Material UI/SASS, Rest/GraphQL and others...<br>
 - 📫 How to reach me<br>
   * [**Discord**](https://discord.gg/uwveCXx)<br>
-  * [**Twitter**](https://discord.gg/uwveCXx)<br>
+  * [**Twitter**](https://twitter.com/UnicornCoder)<br>
   * [**Youtube**](https://youtube.com/UnicornCoder)<br>
   * [**Artigos**](https://unicorncoder.club)<br>
   * [**Instagram**](https://Instagram.com/UnicornCoder)<br>
