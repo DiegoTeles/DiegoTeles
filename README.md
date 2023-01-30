@@ -1,4 +1,4 @@
-<h1 align="center">Hello Unicorns 👋!</h1>
+<h1 align="center">Hello Unicorns! 🦄 👋</h1>
 <h3 align="center">I'm a Fullstack Developer, currently focusing on Frontend</h3>
 
 - 🔭 I’m currently working Senior Frontend Developer and Tech Manager.<br> 
